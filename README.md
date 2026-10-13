@@ -15,10 +15,10 @@ A web application for a real estate agency to manage property listings and appoi
 ## Screenshots
 
 ### Home page
-![Home](listings.png)
+![Home](https://github.com/InesMohammedi7/real-estate-appointments/blob/338b81b99a054a09e1660afcceccd0e023e8c556/home.png)
 
 ### Property Listings
-[![Property Listings](https://github.com/InesMohammedi7/real-estate-appointments/blob/d03bf69b4db69965b79edd4156080de780953694/apt.png)
+![Property Listings](https://github.com/InesMohammedi7/real-estate-appointments/blob/d03bf69b4db69965b79edd4156080de780953694/apt.png)
 
 ### Appointment Booking Form
 ![Booking Form](booking.png)
